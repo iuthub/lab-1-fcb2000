@@ -1,0 +1,1 @@
+firstname=Tokhirjon&lastname=Kodirov&email=t.kodirov2@student.inha.uz&course=Internet Programming
